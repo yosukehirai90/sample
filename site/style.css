@@ -1,3 +1,10 @@
-.test {
-	margin:10px;
+.side-bar {
+  float: left;
+  background-color: #253141; 
 }
+.edit-list {
+  float: right;
+}
+
+
+
